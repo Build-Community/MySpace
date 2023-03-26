@@ -1,6 +1,7 @@
 
 <h1>MySpace</h1>
 The Full Stack Developer project I worked on utilized the latest technologies to deliver a fast and low-latency application. We used Spring Boot, MVC, Stencil JS, and Vue JS to build a robust and scalable web application.  Our team leveraged Spring Boot to create a lightweight and efficient backend, ensuring quick processing of data and low latency. We implemented RESTful APIs and integrated them with the frontend, built using Stencil JS and Vue JS, to create a responsive and seamless user experience. 
+
 ![MOON-HOME](https://user-images.githubusercontent.com/105161301/227782274-6ded906f-35b2-498e-aa84-12e785aca49f.png)
 
 
