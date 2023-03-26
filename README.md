@@ -1,5 +1,5 @@
 # MySpace
-<h1>MySpace>
+<h1>MySpace<h1>
 The Full Stack Developer project I worked on utilized the latest technologies to deliver a fast and low-latency application. We used Spring Boot, MVC, Stencil JS, and Vue JS to build a robust and scalable web application.  Our team leveraged Spring Boot to create a lightweight and efficient backend, ensuring quick processing of data and low latency. We implemented RESTful APIs and integrated them with the frontend, built using Stencil JS and Vue JS, to create a responsive and seamless user experience. 
 
 To optimize performance, we implemented caching strategies and utilized web sockets to enable real-time communication between the server and client. Additionally, we incorporated microservices architecture and containerization using Docker to enhance the application's scalability and resilience.  
