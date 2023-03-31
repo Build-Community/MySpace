@@ -6,7 +6,7 @@ The Full Stack Developer project I worked on utilized the latest technologies to
     1. <a href='https://github.com/Build-Community/ms-st'>ms-st</a><br></br>
     2. <a href='https://github.com/Build-Community/ms-vue'>ms-vue</a><br></br>
     </p>
-</p><br></br>
+</p>
 
 ![MOON-HOME](https://user-images.githubusercontent.com/105161301/227782274-6ded906f-35b2-498e-aa84-12e785aca49f.png)
 
